@@ -57,6 +57,22 @@ Click "Push"
 
 ![alt text](<assets/Managing projects through VScode and GitHub/image-7.png>)
 
+There is a notification in the bottom right corner.
+
+![alt text](<assets/Managing projects through VScode and GitHub/image-12.png>)
+
+Click "Add Remote"
+
+![alt text](<assets/Managing projects through VScode and GitHub/image-13.png>)
+
+There is a popup on the top center, click "Add remote from GitHub"
+
+![alt text](<assets/Managing projects through VScode and GitHub/image-14.png>)
+
+- Click "Allow", agree and enter your password.
+- Login GitHub, create a repository.
+
+
 
 选择从GitHub添加远程存储库
 
