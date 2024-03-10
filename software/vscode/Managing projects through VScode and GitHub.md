@@ -19,7 +19,7 @@ git config --global user.email "your_email"
 git config --global -l
 ```
 
-## Push
+## Commit to Local Repository
 
 Open Folder by VSCode
 
@@ -44,6 +44,14 @@ Beware of the bottom right corner, there is a notification of null commit messag
 Add a message of "first commit", and "Commit" Again
 
 ![alt text](<assets/Managing projects through VScode and GitHub/image-10.png>)
+
+Everything is commited, and you will see
+
+![alt text](<assets/Managing projects through VScode and GitHub/image-11.png>)
+
+So far, everything is stored in your local computer, next step we push it to the remote repository.
+
+## Push to remote repository
 
 Click "Push"
 
