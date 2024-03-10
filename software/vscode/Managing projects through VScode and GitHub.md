@@ -77,3 +77,14 @@ There is a popup on the top center, click "Add remote from GitHub"
 
 popup information refreshed this time, choose the git url, everythin will be sent to remote repository. 
 Refresh the web page of GitHub, you will see the updated files.
+
+> ERROR
+> 
+> if shown error like "Failed to connect to github.com port 443 after 29006 ms: Couldn't connect to server
+>
+> Please use a proxy
+```shell
+git config --global http.proxy 127.0.0.1:7890
+git config --global https.proxy 127.0.0.1:7890
+```
+
