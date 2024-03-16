@@ -8,3 +8,7 @@
 - [Tony Fisher](http://www.piclist.com/techref/uk/ac/york/cs/www-users/http/~fisher/index.htm) generate c code from filter coefs(eg IIR/FIR/LC/PLL), this is the **1st** backup site.
 - [Tony Fisher](http://www.massmind.org/techref/uk/ac/york/cs/www-users/http/~fisher/index.htm) generate c code from filter coefs(eg IIR/FIR/LC/PLL), this is the **2nd** backup site.
 - [Tony Fisher](https://www.anteeo.se/fisher/mkfilter/) generate c code from filter coefs(eg IIR/FIR/LC/PLL), this is the **3rd** backup site.
+
+## Font
+- [bitstream-vera-sans-mono](https://www.dafont.com/bitstream-vera-mono.font) Free, monospaced, easy to distinguish `1` and `l`, `0` and `o`. good for barcode text.
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) a typeface made for developers
