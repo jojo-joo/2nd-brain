@@ -29,3 +29,5 @@ partition management, data backup, and disk utilities.
 - [Designing MQTT Topics for AWS IoT Core](https://docs.aws.amazon.com/pdfs/whitepapers/latest/designing-mqtt-topics-aws-iot-core/designing-mqtt-topics-aws-iot-core.pdf#designing-mqtt-topics-aws-iot-core) The essential IoT design guide based on MQTT.
 - [NB-IoT模组选型及项目初始必看](https://blog.csdn.net/chinacodec/article/details/113553989?spm=1001.2014.3001.5502)
 - [NB-IoT设备并发错峰及优化方法](https://blog.csdn.net/chinacodec/article/details/113552969?spm=1001.2014.3001.5502)
+
+## Source

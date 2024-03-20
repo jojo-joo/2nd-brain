@@ -1,12 +1,12 @@
 
-## algorithm
+## Algorithm
 ### video
 - [Diamond Search for Motion Estimation](./algorithm/video/Diamond%20Search%20for%20Motion%20Estimation.md)
 - [JPEG2000 Related Company](./algorithm/video/JPEG2000%20Related%20Company.md)
 - [Lossless Video Codecs Comparison ‘2007](./algorithm/video/Lossless%20Video%20Codecs%20Comparison%20‘2007.md)
 ### vital signs
 - [Awsome Vital Sign Papers](./algorithm/vital%20signs/Awsome%20Vital%20Sign%20Papers.md)
-## hardware
+## Hardware
 ### audio
 - [Audio Chip Selection Guide](./hardware/audio/Audio%20Chip%20Selection%20Guide.md) include ADC, DAC, DSP, AMP
 ### ble
@@ -22,9 +22,14 @@
 - [ONLINE SMITH CHART TOOL](https://www.will-kelsey.com/smith_chart/)
 - [Quick Smith](https://quicksmith.online/)
 - [Smith Chart Tool](https://www.microwaves101.com/smith-chart/smith-chart-tool-v1)
-- [General Antenna Theory](https://www.antenna-theory.com/) This website is intended to be a source of knowledge for learning about and understanding antennas. The goal is to present a comprehensive tutorial on antennas. 
-## software
+- [General Antenna Theory](https://www.antenna-theory.com/) This website is intended to be a source of knowledge for learning about and understanding antennas. The goal is to present a comprehensive tutorial on antennas.
+- [Draw Sequence Diagram](https://zhuanlan.zhihu.com/p/41319539) use `timegen`
+## Software
 ### misc
 ### optimization
 ### python
 ### vscode
+## Life
+[双皮奶](https://www.zhihu.com/question/24144394/answer/2726927240)
+[蛋挞](https://zhuanlan.zhihu.com/p/37249930)
+[铁锅](https://www.zhihu.com/question/33413700/answer/1702704995)
