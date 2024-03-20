@@ -10,7 +10,7 @@
 - [Tony Fisher](http://www.massmind.org/techref/uk/ac/york/cs/www-users/http/~fisher/index.htm) generate c code from filter coefs(eg IIR/FIR/LC/PLL), this is the **2nd** backup site.
 - [Tony Fisher](https://www.anteeo.se/fisher/mkfilter/) generate c code from filter coefs(eg IIR/FIR/LC/PLL), this is the **3rd** backup site.
 
-## Resource
+## Download
 ### Free Fonts
 - [bitstream-vera-sans-mono](https://www.dafont.com/bitstream-vera-mono.font) Free, monospaced, easy to distinguish `1` and `l`, `0` and `o`. good for barcode text.
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) a typeface made for developers
@@ -18,6 +18,11 @@
 - [icons8](https://icons8.com/) Curated graphics, design apps, and AI tools.
 - [iconfont](https://www.iconfont.cn/) A platform dedicated to the creation of vector icons by Alimama.
 - [iconfinder](https://www.iconfinder.com/free_icons) Free Icons.
+### Disk Check
+- [HDTune](https://www.hdtune.com/download.html) HD Tune Pro is a hard disk / SSD utility with many functions. It can be used to measure the drive's performance, scan for errors, check the health status (S.M.A.R.T.), securely erase all data and much more.
+- [DiskGenius](https://www.diskgenius.com/) An all-in-one tool for data recovery,
+partition management, data backup, and disk utilities.
+- [Victoria](https://www.majorgeeks.com/files/details/victoria_for_windows.html) Victoria for Windows is a robust HDD information and diagnostic utility. 
 
 ## Articles
 ### IOT
