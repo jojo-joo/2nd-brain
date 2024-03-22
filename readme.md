@@ -4,6 +4,9 @@
 - [Diamond Search for Motion Estimation](./algorithm/video/Diamond%20Search%20for%20Motion%20Estimation.md)
 - [JPEG2000 Related Company](./algorithm/video/JPEG2000%20Related%20Company.md)
 - [Lossless Video Codecs Comparison ‘2007](./algorithm/video/Lossless%20Video%20Codecs%20Comparison%20‘2007.md)
+- [Benchmarks for JPEG2000 encoders on CPU and GPU](https://www.fastcompression.com/benchmarks/benchmarks-j2k.htm)
+- [Benchmarks for J2K decoders on CPU and GPU](https://www.fastcompression.com/benchmarks/decoder-benchmarks-j2k.htm)
+- [J2K codec performance on Jetson TX2](https://www.fastcompression.com/blog/j2k-codec-on-jetson-tx2.htm)
 ### vital signs
 - [Awsome Vital Sign Papers](./algorithm/vital%20signs/Awsome%20Vital%20Sign%20Papers.md)
 ## Hardware
