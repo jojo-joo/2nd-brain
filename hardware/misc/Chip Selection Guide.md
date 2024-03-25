@@ -34,3 +34,13 @@
 
 ### DC-DC
 - [RT5707](https://item.szlcsc.com/397358.html) 700mA / 0.36uA
+
+## Interface
+### IO Expansion
+- [74HC595](https://item.szlcsc.com/6413.html) Cheapest / Basic Part of JLC / 3bits to 8bits / 2~6V
+
+### 8:1 Analog Signal Multiplexer
+- [74HC138BQ,115](https://item.szlcsc.com/3047365.html)
+- [U74HC4051G-Q16-3030-R](https://item.szlcsc.com/568764.html)
+- [BCT48751EGE-TR](https://item.szlcsc.com/3105854.html)
+- [74HCT4051BQ,115](https://item.szlcsc.com/568764.html)
