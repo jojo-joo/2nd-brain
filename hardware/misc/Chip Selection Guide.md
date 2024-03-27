@@ -15,7 +15,8 @@
 - [SHT20](https://item.szlcsc.com/54881.html) 2.1V~3.6V / ±3%RH / ±0.3°C
 - [CT1711](./assets/SENSOR_TEMP_CT1711.pdf) ±1°C / 1.8V~5.5V / Human Skin
 
-### MAG
+### ACC
+- [LIS2DH12TR](https://item.szlcsc.com/112151.html) ultra-low-power high-performance 3-axis "femto" accelerometer.
 
 ## Power
 ### AC-DC
@@ -30,12 +31,18 @@
 
 ### PMU
 - [AW32001](https://item.szlcsc.com/5725683.html) I2C / 50uA / Shipment / PowerPath / 500mA / 0 LDO / 0 DC-DC
-- [AXP202](http://www.x-powers.com/index.php/Info/down1/id/30) I2C / UnkonwnIq / Shipment / PowerPath / 1800mA / 5 LDO / 2 DC-DC
+- [AXP202](http://www.x-powers.com/index.php/Info/product_detail/article_id/30) I2C / UnkonwnIq / Shipment / PowerPath / 1800mA / 5 LDO / 2 DC-DC
+- [AXP203](./assets/Allwinner_AXP203_Datasheet_V1.0.pdf) Enhanced single Cell Li-Battery and Power System Management IC.
+### BMS
+- [SH367309](./assets/Sinowealth-SH367309.pdf) is a digital front-end chip for 5-16 series lithium battery management systems.
 
 ### DC-DC
 - [RT5707](https://item.szlcsc.com/397358.html) 700mA / 0.36uA
 
 ## Interface
+### Standard
+- [BS1363-3-1995](./assets/British%20Standard%2013A%20Plugs(BS%201363-3-1995).pdf) British Standard 13A Plugs.
+
 ### IO Expansion
 - [74HC595](https://item.szlcsc.com/6413.html) Cheapest / Basic Part of JLC / 3bits to 8bits / 2~6V
 
