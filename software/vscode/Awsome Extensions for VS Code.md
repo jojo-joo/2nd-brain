@@ -1,3 +1,4 @@
 - `Markdown+Math` LaTeX Math for Markdown, Full sytax supported
 - `vscode-mindmap` mind map for vscode
 - `draw.io` nothing to say, too wonderful
+- `waveform render` Draw timing diagram waveforms with `WaveDrom` inside VSCode
