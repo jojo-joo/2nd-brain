@@ -1,12 +1,22 @@
 ## Install mysql server in ubuntu 20.04
-1. Install Mysql Server 
-    ``` bash
-    sudo apt-get install mysql-server
-    mysql -V
-    sudo cat /etc/mysql/debian.cnf
-    mysql -u debian-sys-maint -p    # using the password in debian.cnf
+1. Install Mysql Server `sudo apt-get install mysql-server`
+2. Check installation `mysql -V`
+3. Display the password by `sudo cat /etc/mysql/debian.cnf`, you will see something
     ```
-2. Setup root password
+    [client]
+    host     = localhost
+    user     = debian-sys-maint
+    password = DKtfCGDb0Fn1GlRn
+    socket   = /var/run/mysqld/mysqld.sock
+    [mysql_upgrade]
+    host     = localhost
+    user     = debian-sys-maint
+    password = DKtfCGDb0Fn1GlRn
+    socket   = /var/run/mysqld/mysqld.sock
+    ```
+4. Remember the password `DKtfCGDb0Fn1GlRn` and type it in the folloing query `mysql -u debian-sys-maint -p`
+
+5. Setup root password
     ``` sql
     USE mysql;
     FLUSH privileges;
@@ -14,8 +24,7 @@
     FLUSH privileges;
     quit;
     ```
-
-3. Start mysql service
+6. Retart mysql service
     ``` bash
     service mysql restart
     ```
